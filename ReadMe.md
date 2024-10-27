@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring data analyst and AI engineer<br>I am currently exploring Generative Artificial Intelligence<br>I am currently pursuing a masters degree in Artificial Intelligence 
+Data analyst and AI engineer<br>I am currently exploring Generative Artificial Intelligence<br>Master's degree in Artificial Intelligence & Data Science 
 
 
 # 💻 Tech Stack:
